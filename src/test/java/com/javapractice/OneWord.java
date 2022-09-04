@@ -67,38 +67,14 @@ class Three extends Two {
 
 public class OneWord {
 	public static void main(String[] args) {
-		
+
 //		Three a = new Three();
 //		a.greenTech();
 //		a.techGreen();
 //		a.four();
+		
+		
 	}
 }
 
 // write a code for method overloading
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

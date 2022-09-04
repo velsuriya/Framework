@@ -49,6 +49,14 @@ public class Base1 {
 		driver.manage().window().maximize();
 	}
 
+	public static void maximize1() {
+		driver.manage().window().maximize();
+	}
+
+	public static void maximize2() {
+		driver.manage().window().maximize();
+	}
+
 	public static void loadUrl(String url) {
 		driver.get(url);
 	}
